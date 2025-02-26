@@ -1,12 +1,4 @@
-﻿___TERMS_OF_SERVICE___
-
-By creating or modifying this file you agree to Google Tag Manager's Community
-Template Gallery Developer Terms of Service available at
-https://developers.google.com/tag-manager/gallery-tos (or such other URL as
-Google may provide), as modified from time to time.
-
-
-___INFO___
+﻿___INFO___
 
 {
   "type": "TAG",
@@ -102,7 +94,7 @@ ___TEMPLATE_PARAMETERS___
     "name": "advertisableId",
     "displayName": "Advertisable ID",
     "simpleValueType": true,
-    "help": "[TO DO]",
+    "help": "You can find it \u003ca href\u003d\"https://app.adroll.com/segments\" target\u003d\"_blank\"\u003ehere\u003c/a\u003e under \u003ci\u003eAdRoll \u003e Website \u003e View Pixel \u003e adroll_adv_id\u003c/i\u003e.",
     "valueValidators": [
       {
         "type": "NON_EMPTY"
@@ -119,7 +111,7 @@ ___TEMPLATE_PARAMETERS___
         "type": "NON_EMPTY"
       }
     ],
-    "help": "[TO DO]"
+    "help": "You can find it \u003ca href\u003d\"https://app.adroll.com/segments\" target\u003d\"_blank\"\u003ehere\u003c/a\u003e under \u003ci\u003eAdRoll \u003e Website \u003e View Pixel \u003e adroll_pix_id\u003c/i\u003e."
   },
   {
     "type": "TEXT",
